@@ -121,6 +121,3 @@ Future improvements could include:
 - Experimenting with more advanced neural network architectures like GRU (Gated Recurrent Units) or Transformer-based models.
 - Exploring a more comprehensive evaluation approach by considering the impact of geopolitical events and market shifts on interest rates.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
